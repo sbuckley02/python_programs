@@ -1,0 +1,23 @@
+Welcome to the Calculus Calculator. In this, you can numerically calculate three values: limits, derivatives, and definite integrals.
+Everything is rounded to the nearest thousandth place.
+When entering the function, note the following:
+  You must enter the function in terms of x.
+  Know the order of operations when combining multiple mathematical operations. To make sure, you can always use parentheses.
+  The number pi can be represented as "pi" (this HAS to be lowercase).
+  The number e is simply represented as "e".
+  Operations are as follows (note that num1 and num2 are placeholders):
+    Addition: num1+num2
+    Subtraction: num1-num2
+    Multiplication: num1*num2
+    Division: num1/num2
+    Exponent (num1 to the power of num2): num1**num2
+    Square Root: sqrt(num1)
+    Natural Log: ln(num1)
+    Common Logarithm (Base 10): log(num1,10)
+    General Logarithms: log(num1,base)
+    Sine (radians): sin(num1)
+    Cosine (radians): cos(num1)
+    Tangent (radians): tan(num1)
+    Inverse Sine (radians): asin(num1)
+    Inverse Cosine (radians): acos(num1)
+    Inverse Tangent (radians): atan(num1)
