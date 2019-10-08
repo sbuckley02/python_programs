@@ -11,7 +11,7 @@ I then thought of a system that would solve this dilemma: Both parents would inp
 into a computer program (this). The first part of their last names would be taken (if there is only
 one name, that would be the part). Then, a random number, either 0 or 1, is generated. If the number
 is 0, one name goes first, is followed by a hypen, and the other name goes second. The opposite
-happens if the number is 0.
+happens if the number is 1.
 
 Here's an example:
 
